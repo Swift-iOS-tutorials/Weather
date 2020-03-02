@@ -83,7 +83,7 @@
                         <outlet property="conditionLabel" destination="eBA-xz-iC2" id="BfZ-DX-MTl"/>
                         <outlet property="dayLabel" destination="Kt8-kO-zjr" id="SMB-ea-Ffo"/>
                         <outlet property="locationLabel" destination="Gw7-an-Nam" id="qxR-Kc-a1e"/>
-                        <outlet property="temperatureLable" destination="6bN-Pj-D3I" id="C6b-yF-7cm"/>
+                        <outlet property="temperatureLabel" destination="6bN-Pj-D3I" id="QIJ-5D-bbY"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
